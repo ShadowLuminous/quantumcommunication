@@ -10927,7 +10927,7 @@ Section Title
   transition: all 300ms ease;
 }
 .clients-carousel .slide-item a:hover {
-  background-color: #f4f5f8;
+  background-color: #ffffff;
 }
 .clients-carousel .slide-item a:hover img {
   opacity: 1;
@@ -10937,7 +10937,7 @@ Section Title
   max-width: 100%;
   width: auto;
   height: auto;
-  opacity: 0.3;
+  opacity: 1;
   -webkit-transition: all 0.3s ease;
   transition: all 0.3s ease;
 }
